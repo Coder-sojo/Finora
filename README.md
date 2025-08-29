@@ -1,4 +1,4 @@
-🌐 Finora – Smart Financial Tracking & Management  
+# 🌐 Finora – Smart Financial Tracking & Management  
 
 Finora is a **modern fintech platform** that helps you track subscriptions, get timely payment reminders, and analyze your expenses – all in one sleek dashboard. 💳📊  
 
@@ -53,3 +53,7 @@ Open http://localhost:3000 to view in browser.
 
 📜 License
 This project is licensed under the MIT License.
+
+👤 Author
+Shaurya Tiwari
+GitHub: Coder-sojo
