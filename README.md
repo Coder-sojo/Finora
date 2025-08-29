@@ -4,7 +4,7 @@ Finora is a **modern fintech platform** that helps you track subscriptions, get 
 
 ---
 
-✨ Features  
+## ✨ Features  
 - 🔔 **Smart Reminders** – Never miss a payment again.  
 - 📈 **Expense Analytics** – Visualize monthly & yearly spending trends.  
 - 👥 **Group Subscriptions** – Split and share costs with friends.  
@@ -20,7 +20,7 @@ Finora is a **modern fintech platform** that helps you track subscriptions, get 
 
 ---
 
- 🚀 Getting Started  
+## 🚀 Getting Started  
 
 1. **Clone the Repository**  
    ```bash
